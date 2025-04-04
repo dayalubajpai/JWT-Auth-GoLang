@@ -2,7 +2,7 @@ JWT Auth API
 ---
 
 ```markdown
-# JWT Authentication API in Go
+# JWT Authentication API in Go ( Goroutes )
 
 A simple RESTful API built using **Go (Golang)** and **MongoDB** that supports user authentication with **JWT (JSON Web Token)**. Users can sign up, log in, and fetch profile data securely using token-based authentication.
 
